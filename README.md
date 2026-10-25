@@ -115,7 +115,7 @@ A B | NAND NOR
 1 1 | 0 0
 ```
 
-After successful simulation, attach a screenshot of the actual terminal output.
+
 
 ### Actual Simulation Output
 
