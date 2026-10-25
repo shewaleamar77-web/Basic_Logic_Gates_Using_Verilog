@@ -119,7 +119,7 @@ After successful simulation, attach a screenshot of the actual terminal output.
 
 ### Actual Simulation Output
 
-![Simulation Output](images/simulation.png)
+![Simulation Output](simulation.png)
 
 ## 6. Tools Used
 
